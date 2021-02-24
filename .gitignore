@@ -1,0 +1,5 @@
+*.pyc
+.env
+
+__pycache__/
+alpaca_trade_api/
